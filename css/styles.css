@@ -81,7 +81,7 @@ h1 {
     font-size: 42pt;
 }
 .photo-border {
-    border: medium solid rgba(0,0,0,1.00);
+    /* border: medium solid rgba(0,0,0,1.00); */
     border-radius: 20px;
     -webkit-box-shadow: 10px 10px 5px gray;
     box-shadow: 10px 10px 5px gray;
